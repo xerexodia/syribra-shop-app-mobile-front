@@ -1,0 +1,33 @@
+[
+    {
+        "_id":1,
+        "name":"sports"
+    },
+    {
+        "_id":12,
+        "name":"spring"
+    },
+    {
+        "_id":123,
+        "name":"summer"
+    },
+    {
+        "_id":1464,
+        "name":"mens"
+    },
+    {
+        "_id":146987,
+        "name":"womens"
+    },
+    {
+        "_id":35454,
+        "name":"children"
+    },{
+        "_id":167444685465,
+        "name":"casual"
+    },
+    {
+        "_id":431643213,
+        "name":"chic"
+    }
+]

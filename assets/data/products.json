@@ -1,0 +1,82 @@
+[{
+    "_id":"kjhqqqsdkjhqksjdkqjsd",
+    "image":"https://images.unsplash.com/photo-1492707892479-7bc8d5a4ee93?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZmFzaGlvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "brand":"hat",
+    "price":23,
+    "rating":3,
+    "numReviews":0,
+    "isFeatured":true,
+    "name":"shoes",
+    "description":"thqlsdqsù*jùkjzejr",
+    "category":{
+        "_id":"1"
+    },
+    "countInStock":25,
+    "__v":0     
+},
+{
+    "_id":"kjhqqqsdkjhqkqsdqsdqsdsjdkqjsd",
+    "image":"https://images.unsplash.com/photo-1581044777550-4cfa60707c03?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8ZmFzaGlvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "brand":"robe",
+    "price":23,
+    "rating":3,
+    "numReviews":0,
+    "isFeatured":true,
+    "name":"robe",
+    "description":"thqlsdqsù*jùkjzejr",
+    "category":{
+        "_id":"123"
+    },
+    "countInStock":25,
+    "__v":0    
+},
+{
+    "_id":"kjhqqqsdkjhqksqsdqsdqsdjdkqjsd",
+    "image":"https://images.unsplash.com/photo-1537832816519-689ad163238b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGZhc2hpb258ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "brand":"pants",
+    "price":23,
+    "rating":3,
+    "numReviews":0,
+    "isFeatured":true,
+    "name":"accessories",
+    "description":"thqlsdqsù*jùkjzejr",
+    "category":{
+        "_id":"12"
+    },
+    "countInStock":25,
+    "__v":0    
+},
+{
+    "_id":"kjhqqqsdkjhqqdqsdksjdkqjsd",
+    "image":"https://images.unsplash.com/photo-1603189343302-e603f7add05a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjF8fGZhc2hpb258ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "brand":"shirts",
+    "price":23,
+    "rating":3,
+    "numReviews":0,
+    "isFeatured":true,
+    "name":"black",
+    "description":"thqlsdqsù*jùkjzejr",
+    "category":{
+        "_id":"oiqhsdhqsmdhjkmqs"
+    },
+    "countInStock":25,
+    "__v":0    
+},
+{
+    "_id":"kjhqqqqsdqsdsdkjhqksjdkqjsd",
+    "image":"https://images.unsplash.com/photo-1603189343302-e603f7add05a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjF8fGZhc2hpb258ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "brand":"panties",
+    "price":23,
+    "rating":3,
+    "numReviews":0,
+    "isFeatured":true,
+    "name":"black",
+    "description":"thqlsdqsù*jùkjzejr",
+    "category":{
+        "$_id":"oiqhsdhqsmdhjkmqs"
+    },
+    "countInStock":25,
+    "__v":0    
+}
+]
+
